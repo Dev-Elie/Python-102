@@ -157,5 +157,3 @@ mydict2 = {"height": 1.75}
 mydict.update(mydict2)
 print(mydict) # {'name': 'Max', 'age': 27, 'height': 1.75}
 
-
-
