@@ -1,0 +1,16 @@
+{
+    "age": 30,
+    "children": [
+        "Mary",
+        "Mark",
+        "Bob",
+        "Linda"
+    ],
+    "city": "New York",
+    "country": "USA",
+    "has_kids": true,
+    "name": "John",
+    "phone": "123-456-7890",
+    "state": "NY",
+    "zip": "10001"
+}
